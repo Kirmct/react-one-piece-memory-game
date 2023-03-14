@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-one-piece-memory-game/static/css/main.991028a4.css",
+    "main.js": "/react-one-piece-memory-game/static/js/main.dd7c6829.js",
+    "static/js/787.462033da.chunk.js": "/react-one-piece-memory-game/static/js/787.462033da.chunk.js",
+    "static/media/sunny.png": "/react-one-piece-memory-game/static/media/sunny.f10001b3c6a1a4b063ce.png",
+    "static/media/ope.png": "/react-one-piece-memory-game/static/media/ope.d0c99588249f3f33eba0.png",
+    "static/media/franky.png": "/react-one-piece-memory-game/static/media/franky.92455ab019d1b013f80b.png",
+    "static/media/luffy.png": "/react-one-piece-memory-game/static/media/luffy.4acc2d8f4a5fbbb640ba.png",
+    "static/media/robin.png": "/react-one-piece-memory-game/static/media/robin.1920f93bf01b47bd1aaf.png",
+    "static/media/nami.png": "/react-one-piece-memory-game/static/media/nami.39a4557fe7c70c448a7a.png",
+    "static/media/zoro.png": "/react-one-piece-memory-game/static/media/zoro.d72a4a34ae036d2ffdec.png",
+    "static/media/sanji.png": "/react-one-piece-memory-game/static/media/sanji.626232160139916c044c.png",
+    "static/media/chopper.png": "/react-one-piece-memory-game/static/media/chopper.e35ecd15f0e427deb717.png",
+    "static/media/brooky.png": "/react-one-piece-memory-game/static/media/brooky.e49ebfbeebde6e052822.png",
+    "index.html": "/react-one-piece-memory-game/index.html",
+    "static/media/restart.svg": "/react-one-piece-memory-game/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
+    "main.991028a4.css.map": "/react-one-piece-memory-game/static/css/main.991028a4.css.map",
+    "main.dd7c6829.js.map": "/react-one-piece-memory-game/static/js/main.dd7c6829.js.map",
+    "787.462033da.chunk.js.map": "/react-one-piece-memory-game/static/js/787.462033da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991028a4.css",
+    "static/js/main.dd7c6829.js"
+  ]
+}
